@@ -105,6 +105,8 @@ public class playingScreen extends AppCompatActivity implements View.OnClickList
                         backMusic.add(b1.getIntegerArrayList("backMusic").get(i));
                         backtime.add(b1.getIntegerArrayList("backtime").get(i));
                     }
+                    Drawable res = getResources().getDrawable(R.drawable.hokie);
+                    image.setImageDrawable(res);
                 }
                 break;
             case R.id.play:
