@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mainSong_array">
+        <item>Go Tech Go</item>
+        <item>Great Day To Be A Hokie</item>
+        <item>Hokies Fight Song</item>
+    </string-array>
+
+    <string-array name="overlapSong_array">
+        <item>cheering</item>
+        <item>clapping</item>
+        <item>lest go hokies</item>
+    </string-array>
+</resources>
